@@ -1,6 +1,6 @@
 # Multi Input Line Chatbot
 
-![lineQRCode](/Users/adrian/Downloads/lineQRCode.png)
+![lineQRCode](/Users/adrian/Desktop/linebot/lineQRCode.png)
 
 ### 1.What is it?
 
