@@ -4,7 +4,7 @@
 
 ​	This is a chatbot build for Line. And it can reply to both text and audio message. It support Chinese and English text replying and English voice note replying. 
 
-​	PS.  If you are interested in how this chat bot works, here is a demo video https://drive.google.com/file/d/1tz4Ad6Fgej9h2ZdS-P2QZUeB5uuQo8Qx/view?usp=sharing. Please feel free to take a look.
+​	PS.  If you are interested in how this chat bot works, here is a demo video https://www.youtube.com/watch?v=zGPWCdrfPwg. Please feel free to take a look.
 
 Also I have included my line QRcode in the folder. Feel free to use it.
 
